@@ -3,7 +3,7 @@
 
 **This article has been written by Iman**  
 
-![Game Screenshot](path/to/your/image.png)  
+![Game Screenshot](path/to/your/game.png)  
 ## Introduction
 The game contains different fields
 1. Game starts with menu which is indicated with 3 different level.
