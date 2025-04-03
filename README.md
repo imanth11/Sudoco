@@ -4,7 +4,11 @@
 **This article has been written by Iman**  
 
 ![Game Screenshot](path/to/your/image.png)  
-
+## Introduction
+The game contains different fields
+1. Game starts with menu which is indicated with 3 different level.
+2. you are able to play former game that you have been saved before .
+3. You can watch rank of player too.
 ## 🛠️ Contributing  
 For participating in this project:  
 1. Clarify bugs and problems of the system and code, then share with us.  
